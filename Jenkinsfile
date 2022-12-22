@@ -3,7 +3,7 @@ node(){
     checkout scm
   }
 }
-node('ubuntu_apps'){
+node('ubuntu-apps'){
   stage
 }
     
